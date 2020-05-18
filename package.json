@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "uts pemrog web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehezkielns99/UTS-PEMROG-WEB-YEHEZKIEL.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "yehezkiel nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehezkielns99/UTS-PEMROG-WEB-YEHEZKIEL/issues"
+  },
+  "homepage": "https://github.com/yehezkielns99/UTS-PEMROG-WEB-YEHEZKIEL#readme"
+}
